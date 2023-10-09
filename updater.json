@@ -1,15 +1,15 @@
 {
-    "version": "v1.1.3",
+    "version": "v1.1.4",
     "notes": "Fix some issues",
-    "pub_date": "2023-09-29T14:00:00Z",
+    "pub_date": "2023-10-09T11:45:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYmR5RFZNeE9jUlBORmpwMGFHeVNmQVoyTTF5dWt2bTB5ZGdsMThxa0V2anNqc0dNUENJU1FlSUQ2N0dFeXE1S2dENTluNjgvb2IycnhpYjFFejFLVE1ZMWsxcjNXa1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2MDExMzg0CWZpbGU6Z21fMS4xLjNfeDY0X2VuLVVTLm1zaS56aXAKR3F5YW1qTWtMV3pQRFI3YzZaZ1ZtY1VXSE02RkRwSUJGbHFxVVVwd051N3FRK1V2NWF5bGlNblltVlpmaUtnSVJITmlpendnbC9ZTlRTeWU1SFJZQVE9PQo=",
-        "url": "https://github.com/Bukmopbl4/self_update/releases/download/v1.1.3/gm_1.1.3_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYmR5RFZNeE9jUk9VT3VaOTRZWFA3U21zZVZLSmFYSTY3aU4vRUY3RWlKbjI3TDJWSlhGbzZCaVlBR2VveUxIUnZrMTB0Ui9sd29RUEFvdlFzS3A5d3lnTWlxa1JzdVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2ODY5OTYwCWZpbGU6Z21fMS4xLjRfeDY0X2VuLVVTLm1zaS56aXAKZ2tqZk55bnZyOERHU2VwZTFpbXo5Z0FTTFVObFdtYkx6QndRQXVMb0ZvbHRrQ01ab0IvNGZiUG95Zm5BVzd2U1ZPZkR1OThHay9PSk40SVFYNUdpQ2c9PQo=",
+        "url": "https://github.com/Bukmopbl4/self_update/releases/download/v1.1.4/gm_1.1.4_x64_en-US.msi.zip"
       },
       "windows-i686": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYmR5RFZNeE9jUkNPclNXMnYrRVVVbVBrU3ZYbElJNld3M0NQeXZqaitkRnQxcFBVV3kwUE1NZ3VnZGY4Y0hBR3ZKWlkzYmcvK250TC9nUjhqVUcyL3hqNS91N3JaTndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2MDEzMjY5CWZpbGU6Z21fMS4xLjNfeDg2X2VuLVVTLm1zaS56aXAKQkpiYTJlTlFKMmVUZmZHc1R5RXNWMmY3L1pkY1FvKy9PVmxFYndsMW1iWXRiMjNValQvMG9ibVYrY21KUDN4T1B3ZFJrcEdscmxUaTBEYXFTZWxMQkE9PQo=",
-        "url": "https://github.com/Bukmopbl4/self_update/releases/download/v1.1.3/gm_1.1.3_x86_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYmR5RFZNeE9jUkY5eGFpdlVMaXNBaUNXc0llNjhkTk9FMzBQRFdEOG5jNmNvYTRCT2VjMUMzSm9vaU9TNzU5cTVhd0VabndmQ3AyclQwVnRoamxnUmhrVG5RekRMcFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2ODcwMjQxCWZpbGU6Z21fMS4xLjRfeDg2X2VuLVVTLm1zaS56aXAKRWszQ2Znb1FmdFN4Ti9WNzJmbkdRUjdLTTRmKzYzb2hpVVNOVHAxdjk3VXVRbkUrRkErclBqbHQ5ZzEyQU5HVDRNU0ZIS25RTWJ5NFJPVVczL2ZKQ0E9PQo=",
+        "url": "https://github.com/Bukmopbl4/self_update/releases/download/v1.1.4/gm_1.1.4_x86_en-US.msi.zip"
       }
     }
   }
