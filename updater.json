@@ -1,15 +1,15 @@
 {
-    "version": "v1.1.5",
-    "notes": "Fix some issues",
-    "pub_date": "2023-10-10T10:30:00Z",
-    "platforms": {
-      "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYmR5RFZNeE9jUkwzdnh5UUlVR2RQcGVvTDVoWWRMZE1maVZNeTdpNC9WV0x5SkVwazZCd0lZUHpaZUZZY0pvRld2OTBGTGgrMGpXQURGNUx4ZHQrN0l2bi9OcUpVc1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2OTUxMzE2CWZpbGU6Z21fMS4xLjVfeDY0X2VuLVVTLm1zaS56aXAKVDdtRHZkK3hFSndYRFdsQ0ZzT284QTY5bjdZVnFiZGFKMjFxblFpM3dGa28xTk9KZ3NDRURvUjgzMGFWU09ZeDUyQWxmNkVFMG1sZnlTdVN2Mi9LREE9PQo=",
-        "url": "https://cdn3.descarga.pro/releases/download/v1.1.5/gm_1.1.5_x64_en-US.msi.zip"
-      },
-      "windows-i686": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYmR5RFZNeE9jUkR0dmprdWJ3ajBVamx5ZnlkSG9hL0pUVDRhQ1I5S01mUWRRdVVFYXl0aCtkSjY5ZElDSmFydFZhTDI3Q3FoK1crb3lPL3FwbUc4SnVxdm9NaUh6SHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2OTUxODI0CWZpbGU6Z21fMS4xLjVfeDg2X2VuLVVTLm1zaS56aXAKaHU0bkhJcGlLclVkRDJnUnQxYldLbXZ1UjdOMkNJOVpnWGcwZE41ajgrR1IrVDlTeG00cFhVdVhpd0pYZnNsOXBYMlVwNWF2dmRyRW8wZitGZjVrQmc9PQo=",
-        "url": "https://cdn3.descarga.pro/releases/download/v1.1.5/gm_1.1.5_x86_en-US.msi.zip"
-      }
+  "version": "v1.1.6",
+  "notes": "Fix some issues",
+  "pub_date": "2023-10-16T16:40:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYmR5RFZNeE9jUkFPRE93NHR3V25ZNGdyK1Q3WWJPYys2blFaNGQ5bHI5NS9rbHFoWkd0bGkxTDF6Nzhob3BoV0dNajRQSkhEblFPcU1GbGF0REVDMGt3ZStocVY0N1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NDkyMTk5CWZpbGU6Z21fMS4xLjZfeDY0X2VuLVVTLm1zaS56aXAKZkVwZG85UkFDQWNSazl0aWNOektIM2tPRUFJTURLR2xIUUFkMTNEdVV5M0FZczN3Zm8wa0kwa1A1Mm82dXpvdWxyS1I2c0d0TEFxRzVPMUNpai9IQVE9PQo=",
+      "url": "https://cdn3.descarga.pro/releases/download/v1.1.6/gm_1.1.6_x64_en-US.msi.zip"
+    },
+    "windows-i686": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYmR5RFZNeE9jUkJiVUdBSVZRT1Q5dmc5WjI0bnJZR3hoRllsKzkvMmRWV3IzVVZpdVlKbnRFSlVyMGpUZVl3Q3AwYytTRGZ4T1Nnc0hSMVAzVUxQYWYxcHMwSEczV2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NDkyNTY3CWZpbGU6Z21fMS4xLjZfeDg2X2VuLVVTLm1zaS56aXAKTXBYMTNrVHVYQjJpRWJYUmFZS1ovb2JYbExMWU1HR05ScmR2S2VZVmJldjFGOHkrNmlYR2JnZzg4MmpEdUQzOWhhZk05aTREV1NHcTZZcWw5bVBYRHc9PQo=",
+      "url": "https://cdn3.descarga.pro/releases/download/v1.1.6/gm_1.1.6_x86_en-US.msi.zip"
     }
   }
+}
